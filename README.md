@@ -1,3 +1,20 @@
+barnacle is fundamentally based on privacy, data sovereignty, and connectivity through decentralization.
+
+The core components include:
+
+Personal AI (Guardian): This AI is designed to operate on a user's personal devices and to provide highly personalized services. It learns from user behaviors, preferences, and habits, but all this data is stored locally and inaccessible to anyone but the user and the Guardian AI itself. This maintains high levels of privacy and data sovereignty.
+
+Gatekeeper AI (Sentinel): This AI acts as an intermediary or bridge between the personal AI and the outside world. It communicates with a decentralized network to gather necessary information or to send requests and data from the Guardian AI. The interaction with the outside world is done in a way that preserves the user's privacy.
+
+Decentralized Network: This is an external network that is used for both gathering information and storing data. The data stored in this network is broken into 'community packets,' which are chunks of encrypted data scattered across multiple devices. This data can only be accessed through Sentinel's unique decryption key, adding an extra layer of security.
+
+Data Storage and Sharing: All the data that the Guardian AI uses and produces is stored locally on the user's devices, protecting the user's privacy and data sovereignty. When data needs to be shared or accessed from external sources, the Sentinel AI anonymizes the data before sending it to the decentralized network, further safeguarding the user's privacy.
+
+Integration with Work Systems: The Guardian AI is capable of integrating with the user's work systems. It uses the Sentinel AI to connect to a decentralized storage network for any necessary work data, which is stored in an encrypted, decentralized manner.
+
+The AI logic is built around the idea of balancing the need for personalized, efficient AI services with the need to maintain privacy and data sovereignty. The use of a separate gatekeeper AI to interact with the outside world and a decentralized network for data storage and information retrieval adds extra layers of security and privacy. The end result is an AI-human interaction model that prioritizes the user's privacy and data sovereignty while still providing a high level of personalized service.
+
+<br>
 # Scenario 1: Embedded AI as a cloud service
 It was a typical Tuesday morning in 2032. The smell of fresh coffee wafted through the air as Emma awoke to the sound of her AI assistant, a cloud-based embedded AI affectionately nicknamed "Eos", gently rousing her from sleep.
 
