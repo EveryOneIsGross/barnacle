@@ -1,18 +1,16 @@
 barnacle is fundamentally based on privacy, data sovereignty, and connectivity through decentralization.
+This project entails the creation of a novel artificial intelligence (AI) ecosystem that prioritizes user privacy, data sovereignty, and energy efficiency. The system is comprised of two AI components: the Guardian AI and the Sentinel AI.
 
-The core components include:
+The Guardian AI is a personal AI that understands and caters to user preferences, schedules, and habits. It stores all of this data locally on the user's device, ensuring privacy and control.
 
-Personal AI (Guardian): This AI is designed to operate on a user's personal devices and to provide highly personalized services. It learns from user behaviors, preferences, and habits, but all this data is stored locally and inaccessible to anyone but the user and the Guardian AI itself. This maintains high levels of privacy and data sovereignty.
+The Sentinel AI, on the other hand, is a low-compute, lightweight AI that operates as a gatekeeper or "courier" between the Guardian and the outside world. Sentinel interfaces with a decentralized network to fetch and send information as needed, while maintaining user privacy and data security.
 
-Gatekeeper AI (Sentinel): This AI acts as an intermediary or bridge between the personal AI and the outside world. It communicates with a decentralized network to gather necessary information or to send requests and data from the Guardian AI. The interaction with the outside world is done in a way that preserves the user's privacy.
+The project plans to leverage a combination of existing decentralized technologies:
 
-Decentralized Network: This is an external network that is used for both gathering information and storing data. The data stored in this network is broken into 'community packets,' which are chunks of encrypted data scattered across multiple devices. This data can only be accessed through Sentinel's unique decryption key, adding an extra layer of security.
-
-Data Storage and Sharing: All the data that the Guardian AI uses and produces is stored locally on the user's devices, protecting the user's privacy and data sovereignty. When data needs to be shared or accessed from external sources, the Sentinel AI anonymizes the data before sending it to the decentralized network, further safeguarding the user's privacy.
-
-Integration with Work Systems: The Guardian AI is capable of integrating with the user's work systems. It uses the Sentinel AI to connect to a decentralized storage network for any necessary work data, which is stored in an encrypted, decentralized manner.
-
-The AI logic is built around the idea of balancing the need for personalized, efficient AI services with the need to maintain privacy and data sovereignty. The use of a separate gatekeeper AI to interact with the outside world and a decentralized network for data storage and information retrieval adds extra layers of security and privacy. The end result is an AI-human interaction model that prioritizes the user's privacy and data sovereignty while still providing a high level of personalized service.
+Ethereum for signing and validating Sentinel's actions via smart contracts,
+GUN for managing real-time data synchronization across the network, and
+Solid for managing user data packets, enhancing user control over their own data.
+The system is designed to operate as a "slow" network, prioritizing computational efficiency and reduced energy consumption over speed. This involves latency-aware design, energy-aware scheduling, noise tolerance, and the use of low-power hardware. The aim is to create an AI system that respects user privacy and data sovereignty while being sustainable and environmentally friendly.
 
 # Future perspectives for AI Assistents
 
