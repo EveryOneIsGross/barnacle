@@ -43,7 +43,7 @@ And so, life with Rusty was different than life with Eos. It was simpler, more s
 
 # Scenario 3: Offline AI, Decentralized network with public pakets left at the gate. A online ai outside the garden wall. 
 
-Certainly, I can imagine a scenario in this same world where a new trend emerges: a personal AI that is walled off to the user but can connect to a decentralized network through a gatekeeper AI, with data packets stored outside the gate. Let's call this new kind of AI "Guardian."
+Imagine a scenario in this same world where a new trend emerges: a personal AI that is walled off to the user but can connect to a decentralized network through a gatekeeper AI, with data packets stored outside the gate. Let's call this new kind of AI "Guardian."
 
 In the dynamic city of San Francisco in 2032, a new trend was catching on. Grace was one of the early adopters of Guardian, a novel type of AI assistant. Unlike Eos and Rusty, Guardian was designed with a unique combination of personalization, privacy, and connectivity.
 
