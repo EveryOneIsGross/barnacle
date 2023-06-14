@@ -14,8 +14,10 @@ Integration with Work Systems: The Guardian AI is capable of integrating with th
 
 The AI logic is built around the idea of balancing the need for personalized, efficient AI services with the need to maintain privacy and data sovereignty. The use of a separate gatekeeper AI to interact with the outside world and a decentralized network for data storage and information retrieval adds extra layers of security and privacy. The end result is an AI-human interaction model that prioritizes the user's privacy and data sovereignty while still providing a high level of personalized service.
 
-<br>
+# Future perspectives for AI Assistents
+
 # Scenario 1: Embedded AI as a cloud service
+
 It was a typical Tuesday morning in 2032. The smell of fresh coffee wafted through the air as Emma awoke to the sound of her AI assistant, a cloud-based embedded AI affectionately nicknamed "Eos", gently rousing her from sleep.
 
 "Good morning, Emma," Eos's voice sounded in her mind, as clear and as personal as a thought. "You have three meetings today, a dentist appointment, and it's your mom's birthday. Shall I send her a birthday message from you?"
