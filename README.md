@@ -14,14 +14,22 @@ The Barnacle project is currently composed of several Python scripts, each servi
 ## The shadow.py
 The Shadow class is defined within this file. The "Shadow" is a Jungian concept that represents the unconscious aspects of the personality, which the ego does not identify with. This class embodies those elements in the context of the user's interactions, storing these repressed aspects and learning from them. Its responses are generated based on a memory model of previous interactions, resulting in a persona that evolves with the user's input. It encourages free association.
 
+The shadow has a launchable gui using gradio.
+
 ## The collective archetypes.py
 This script encompasses various archetype classes that epitomise different aspects of the user's psyche. Drawing from Jungian archetypes such as 'The Fool', 'The Magician', 'The Hermit', and 'The Emperor', each archetype has a distinct role and persona. They learn and grow from user interactions, providing a multi-dimensional conversation experience, thereby enhancing the adaptive context of the Barnacle system. These represent varied perspectives on a topic to help the user holistically evaluate their questions.
+
+Chat with these aspects are currently only implemented in console.
 
 ## The anima_animus.py
 In this file, the Anima and Animus classes are defined. They embody the unconscious feminine and masculine aspects of the user's personality respectively, as per Jungian theory. The interaction with these classes provides unique insights into the user's unconscious gender aspects. Each class learns from its interactions, shaping the responses accordingly and contributing to the growing persona of the chatbot. This is a model intended to expose our gendered bias, and help use engage in new ways of expressing ourselves.
 
+Chat with this aspect is currently only implemented in console
+
 ## The persona.py
 This central interface integrates all the individual components of the Barnacle system, through shared memories and their objective generation. It creates an instance of the users "Persona", integrating previous interactions with the user across all archetypes. This data is summarised and analysed, providing insights and identifying patterns that shape future interactions. The resulting persona is a cumulative representation of these dynamic elements, offering a highly personalised, aligned and evolving chat interface for the user.
+
+The persona has a launchable gui using gradio. NOTE: The shadow memories are not yet integrated into the persona, unlike the other aspects.
 
 ## Framework and Project Goals
 
