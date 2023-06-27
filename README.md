@@ -23,7 +23,10 @@ In this file, the Anima and Animus classes are defined. They embody the unconsci
 
 Chat with this aspect is currently only implemented in console
 
+![conversation context](https://github.com/EveryOneIsGross/barnacle/assets/23621140/72364e48-5185-450d-b41a-11f03e6ef299)
+
 ## The persona.py
+
 This central interface integrates all the individual components of the Barnacle system, through shared memories and their objective generation. It creates an instance of the users "Persona", integrating previous interactions with the user across all archetypes. This data is summarised and analysed, providing insights and identifying patterns that shape future interactions. The resulting persona is a cumulative representation of these dynamic elements, offering a highly personalised, aligned and evolving chat interface for the user.
 
 The persona has a launchable gui using gradio. NOTE: The shadow memories are not yet integrated into the persona, unlike the other aspects.
