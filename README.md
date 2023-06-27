@@ -1,4 +1,4 @@
-## Barnacle: An alignment framework for building a Jungian model of the users persona
+## Barnacle: An alignment framework for building a Chatbot based on the users Jungian' Persona.
 
 ## Introduction
 
@@ -6,7 +6,7 @@ Barnacle is a unique chatbot project, built on the principles of Carl Jung's the
 
 ## Current Architecture Overview
 
-The Barnacle project is composed of several Python scripts, each serving a distinctive purpose rooted in Jungian theory. The system constructs a multi-faceted "persona" that the user interacts with, influencing its growth over time. This process allows for dynamically adapting responses that are contextually attuned to the user's communication style and preferences. This context window is built out of shared JSON files stored locally containing previous topics of conveersation, generated lessons learned and dictionaries of generated future objectives.
+The Barnacle project is composed of several Python scripts, each serving a distinctive purpose rooted in Jungian theory. The system constructs a multi-faceted "persona" that the user interacts with, influencing its growth over time. This process allows for dynamically adapting responses that are contextually attuned to the user's communication style and preferences. This Chatbots' context window is built out of shared JSON files stored locally containing previous topics of conversation, generated lessons learned and generated  objectives, created across multiple aspects of the user's own psyche.
 
 shadow.py
 The Shadow class is defined within this file. The "Shadow" is a Jungian concept that represents the unconscious aspects of the personality, which the ego does not identify with. This class embodies those elements in the context of the user's interactions, storing these repressed aspects and learning from them. Its responses are generated based on a memory model of previous interactions, resulting in a persona that evolves with the user's input. It encourages free association.
