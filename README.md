@@ -1,8 +1,8 @@
 ![Default_surreal_barnacle_and_human_skull_An_alignment_framewor_0](https://github.com/EveryOneIsGross/barnacle/assets/23621140/1a4ae9ba-433f-4900-be10-1b1b59a9664a)
 
-## Barnacle: An alignment framework for building a Chatbot based on Jungian concepts of the collective unconscious.
+## Barnacle: An alignment framework for building chatbots based on Jungian concepts of the collective unconscious.
 
-Barnacle is a unique chatbot project, built on the principles of Carl Jung's theories of archetypes and the collective unconscious. This paradigm facilitates the creation and engagement of multiple chatbot personas, each reflective of different facets of the user's psyche. Over time, these "archetypes" grow, evolve, and adjust based on the interactions, leading to a more personalised and aligned chat experience.
+Barnacle is a unique chatbot project, built on the principles of Carl Jung's theories of archetypes and the collective unconscious. This paradigm facilitates the creation and engagement of multiple chatbot archetypes, each reflective of different facets of the user's psyche. Over time, these "archetypes" grow, evolve, and adjust based on the interactions, leading to a more personalised and aligned chat experience.
 
 ## Current Architecture Overview
 
