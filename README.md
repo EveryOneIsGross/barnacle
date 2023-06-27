@@ -32,6 +32,6 @@ The persona has a launchable gui using gradio. NOTE: The shadow memories are not
 
 This is currently a work in progress. Ultimately the projects' goal is a automated chain of reasoning across all scripts, each with their own tree branch conversation structure relevent to their logic. Archetypes are to be expanded to represent the whole Tarot, or will integrate my Tree of Life project Sefirot, with lefthanded and right handed path sentiment analysis.
 
-As it is currently implemented, each of these aspects are seperate chat instances and experiences.
+As it is currently implemented, each of these aspects are seperate chat instances and experiences, with Persona being the only significantly intgrated aspect.
 
 
