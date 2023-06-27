@@ -4,9 +4,6 @@
 
 Barnacle is a unique chatbot project, built on the principles of Carl Jung's theories of archetypes and the collective unconscious. This paradigm facilitates the creation and engagement of multiple chatbot archetypes, each reflective of different facets of the user's psyche. Over time, these "archetypes" grow, evolve, and adjust based on the interactions, leading to a more personalised and aligned chat experience.
 
-![persona_flow](https://github.com/EveryOneIsGross/barnacle/assets/23621140/ba9700ad-0372-48f7-bce3-73a6cee5c7ac)
-
-
 ## Current Architecture Overview
 
 The Barnacle project is currently composed of several Python scripts, each serving a distinctive purpose rooted in Jungian theory. The system constructs a multi-faceted "persona" that the user interacts with, influencing its growth over time. This process allows for dynamically adapting responses that are contextually attuned to the user's communication style and preferences. This Chatbots' context window is built out of shared JSON files stored locally containing previous topics of conversation, generated lessons learned and generated  objectives, created across multiple aspects of the user's own psyche.
