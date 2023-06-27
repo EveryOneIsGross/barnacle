@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Barnacle is a unique chatbot project, built on the principles of Carl Jung's theories of archetypes and the collective unconscious. This paradigm facilitates the creation and engagement of multiple chatbot personas, each reflective of different facets of the user's psyche. Over time, these personas grow, evolve, and adjust based on the interactions, leading to a more personalised and aligned chat experience.
+Barnacle is a unique chatbot project, built on the principles of Carl Jung's theories of archetypes and the collective unconscious. This paradigm facilitates the creation and engagement of multiple chatbot personas, each reflective of different facets of the user's psyche. Over time, these "archetypes" grow, evolve, and adjust based on the interactions, leading to a more personalised and aligned chat experience.
 
 ![Default_surreal_barnacle_and_human_skull_An_alignment_framewor_0](https://github.com/EveryOneIsGross/barnacle/assets/23621140/9dff3443-a7ea-4bc1-b3c6-1caeee656744)
 
