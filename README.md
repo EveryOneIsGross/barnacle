@@ -1,11 +1,10 @@
+![Default_surreal_barnacle_and_human_skull_An_alignment_framewor_0](https://github.com/EveryOneIsGross/barnacle/assets/23621140/1a4ae9ba-433f-4900-be10-1b1b59a9664a)
+
 ## Barnacle: An alignment framework for building a Chatbot based on Jungian concepts of the psyche and collective unconscious.
 
 ## Introduction
 
 Barnacle is a unique chatbot project, built on the principles of Carl Jung's theories of archetypes and the collective unconscious. This paradigm facilitates the creation and engagement of multiple chatbot personas, each reflective of different facets of the user's psyche. Over time, these "archetypes" grow, evolve, and adjust based on the interactions, leading to a more personalised and aligned chat experience.
-
-![Default_surreal_barnacle_and_human_skull_An_alignment_framewor_0](https://github.com/EveryOneIsGross/barnacle/assets/23621140/9dff3443-a7ea-4bc1-b3c6-1caeee656744)
-
 
 ## Current Architecture Overview
 
@@ -35,6 +34,6 @@ The persona has a launchable gui using gradio. NOTE: The shadow memories are not
 
 This is currently a work in progress. Ultimately the projects' goal is a automated chain of reasoning across all scripts, each with their own tree branch conversation structure relevent to their logic. Archetypes are to be expanded to represent the whole Tarot, or will integrate my Tree of Life project Sefirot, with lefthanded and right handed path sentiment analysis.
 
-As it is currerntly implemented, each of these are seperate chat instances and experiences.
+As it is currently implemented, each of these aspects are seperate chat instances and experiences.
 
 
