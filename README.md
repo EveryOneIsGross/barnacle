@@ -1,4 +1,4 @@
-## Barnacle: An alignment framework for building a Chatbot based on Jungian concepts of the psyche.
+## Barnacle: An alignment framework for building a Chatbot based on Jungian concepts of the psyche and collective unconscious.
 
 ## Introduction
 
